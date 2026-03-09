@@ -143,9 +143,9 @@ val ahmed = AndroidDeveloper(
 
 <div align="center">
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedsamirdevpro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Ahmed's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedsamirdevpro&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamirdevpro&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedsamirdevpro&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedsamirdevpro&theme=tokyonight&hide_border=true)
 
